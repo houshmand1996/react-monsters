@@ -1,8 +1,8 @@
 <<<<<<< HEAD
-# react-simple-spa
-  a simple spa created  by using react.js 
+# react-monsters
+  a simple App created by using react.js 
 =======
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+project demo [Monsters Rolodex](https://houshmand1996.github.io/react-monsters/).
 
 ## Available Scripts
 
